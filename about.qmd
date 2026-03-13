@@ -1,0 +1,11 @@
+---
+title: 关于我
+---
+
+# 关于我
+我正在学习数据科学与 literate programming，使用 Quarto + Positron 完成课程作业。
+
+掌握工具：
+- Quarto
+- Positron
+- Git/GitHub
